@@ -1,7 +1,7 @@
 <script>
 //Men
   document.addEventListener("DOMContentLoaded", function () {
-    const targetUrl = "/men"; // Replace with your actual URL
+    const targetUrl = "https://barakogym.com/products/collections/woman"; // Replace with your actual URL
     const currentUrl = window.location.href;
 
     if (currentUrl.includes (targetUrl)) {
