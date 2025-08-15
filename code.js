@@ -1,5 +1,5 @@
   document.addEventListener("DOMContentLoaded", function () {
-    const targetUrl = "https://barakogym.com/products/collections/woman";
+    const targetUrl = "/men";
     const currentUrl = window.location.href;
 
     if (currentUrl.includes (targetUrl)) {
